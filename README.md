@@ -1,17 +1,13 @@
-# Libft project for 42 school. [![Build Status](https://travis-ci.org/IvanKozlov95/libft.svg?branch=master)](https://travis-ci.org/IvanKozlov95/libft)
+# 42 Libft 
 
-### TOC
+Libft is an individual project at 42 that requires us to re-create some standard C library functions including some additional 
+ones that can be used later to build a library of useful functions for the rest of the program.
 
-* [What is libft?](#what-is-libft)
-* [What's in it?](#what-is-in-it)
-* [How does it work?](#how-does-it-work)
+Disclaimer: *Reinventing the wheel is bad, 42 makes us do this just so we can have a deeper understanding of data structures 
+and basic algorithms. At 42 we're not allowed to use some standard libraries on our projects, so we have to keep growing this 
+library with our own functions as we go farther in the program.*
 
-## What is libft?
-Libft is an individual project at 42 that requires us to re-create some standard C library functions including some additional ones that can be used later to build a library of useful functions for the rest of the program.
-
-Disclaimer: *Reinventing the wheel is bad, 42 makes us do this just so we can have a deeper understanding of data structures and basic algorithms. At 42 we're not allowed to use some standard libraries on our projects, so we have to keep growing this library with our own functions as we go farther in the program.*
-
-## What is in it?
+## About the project
 
 According to [project's pdf](Libft.pdf) there should be 4 sections:
 
@@ -19,8 +15,6 @@ According to [project's pdf](Libft.pdf) there should be 4 sections:
 2.  **Additional functions:** Functions 42 deems will be useful for later projects.
 3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation.
 4.  **Personal Functions:** Functions I believe will be useful later.
-
-# Classification
 
 However, I've decided reorganize and combined functions to several folders:
 
@@ -34,12 +28,12 @@ However, I've decided reorganize and combined functions to several folders:
 
 My code is not the best, but it passed all the 42 tests successfully and I successfully used in my other 42 projects.
 
-# Notes:
+### Note:
 
 - Most of the the files and function names are namespaced with an **ft** in front. It stands for Forty Two
 - The project instructions require that we put all the source files in the root directory but for the sake of this Github repo, I separate them into sub folders.
 
-### How does it work?
+### How does libft work?
 
 The goal is to create a library called libft.a from the source files so I can later use that library from other projects at 42.
 
