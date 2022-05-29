@@ -58,6 +58,7 @@ Note that you do not have to read the books completly but you will find a lot of
 Books
 
 - [C in a Nutshell](http://karadev.net/uroci/filespdf/files/c-in-a-nutshell-o-reilly-peter-prinz-tony-crawford.pdf?fbclid=IwAR0RHP8KWnaLtVHaK1ks4IZ8LE8_XBWJs6XTjDz14qPYBDL_IFWFj2zt9Zc) 
+- [Pointers in C](https://github.com/42YerevanProjects/42_Libft/tree/master/resources)
 - [GNU Makefile Guide](https://github.com/42YerevanProjects/42_Libft/tree/master/resources)
 - [Vim Reference Guide](https://github.com/42YerevanProjects/42_Libft/tree/master/resources)
 - [Git Pocket Guide](https://github.com/42YerevanProjects/42_Libft/tree/master/resources)
