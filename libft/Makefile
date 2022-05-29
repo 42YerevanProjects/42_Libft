@@ -1,8 +1,8 @@
+NAME		= libft.a
 SRCS		= $(shell find "." -name "*.c" ! -name "ft_lst*.c")
 BONUSES 	= $(shell find "." -name "ft_lst*.c")
 OBJS		= ${SRCS:.c=.o}
 BONUS_OBJS 	= ${BONUSES:.c=.o}
-NAME		= libft.a
 CC			= gcc
 RM			= rm -rf
 CFLAGS		= -Wall -Wextra -Werror
