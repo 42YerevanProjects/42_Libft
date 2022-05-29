@@ -5,7 +5,7 @@ OBJS		= ${SRCS:.c=.o}
 BONUS_OBJS 	= ${BONUSES:.c=.o}
 CC			= gcc
 RM			= rm -rf
-CFLAGS		= -Wall -Wextra -Werror
+CFLAGS		= -Wall -Wextra -Werror -I./
 AR			= ar csr
 
 .c.o :
