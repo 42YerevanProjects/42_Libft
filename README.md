@@ -7,6 +7,8 @@ Disclaimer: *Reinventing the wheel is bad, 42 makes us do this just so we can ha
 and basic algorithms. At 42 we're not allowed to use some standard libraries on our projects, so we have to keep growing this 
 library with our own functions as we go farther in the program.*
 
+> ⚠️ **Warning**: Don't copy/paste code you don't understand: it's bad for you, and for the school.
+
 ## About the project
 
 According to [project's pdf](Libft.pdf) there should be 4 sections:
