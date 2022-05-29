@@ -50,6 +50,13 @@ You should see a *libft.a* file and some object files (.o).
 That's it! If you're having some problems with the code, just create an issue. I'll definitely check it out. 
 If you're 42 student fill free to message me on discord.
 
+## Resources
+
+You can finde some links and books below that might be usefull during the complition of the project.
+
+- [C in a Nutshell](http://karadev.net/uroci/filespdf/files/c-in-a-nutshell-o-reilly-peter-prinz-tony-crawford.pdf?fbclid=IwAR0RHP8KWnaLtVHaK1ks4IZ8LE8_XBWJs6XTjDz14qPYBDL_IFWFj2zt9Zc) 
+
+
 ## Additional information 
 In order to use this library it should be compiled by the Makefile of the project that is going to use the library.
 Make sure to implement make file correctly.
