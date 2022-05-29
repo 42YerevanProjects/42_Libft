@@ -38,9 +38,9 @@ The goal is to create a library called libft.a from the source files so I can la
 
 To create that library, after downloading/cloning this project, **cd** into the project and call make:
 ```
-	git clone https://github.com/42YerevanProjects/42_Libft.git
-	cd libft
-	make
+$ git clone https://github.com/42YerevanProjects/42_Libft.git
+$ cd libft
+$ make
 ```
 
 You should see a *libft.a* file and some object files (.o).
