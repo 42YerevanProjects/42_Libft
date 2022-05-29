@@ -52,10 +52,28 @@ If you're 42 student fill free to message me on discord.
 
 ## Resources
 
-You can finde some links and books below that might be usefull during the complition of the project.
+You can find some links and books below that might be useful during the project. You can find all the books in resources folder.
+Note that you do not have to read the books completly but you will find a lot of useful information there.
+
+Books
 
 - [C in a Nutshell](http://karadev.net/uroci/filespdf/files/c-in-a-nutshell-o-reilly-peter-prinz-tony-crawford.pdf?fbclid=IwAR0RHP8KWnaLtVHaK1ks4IZ8LE8_XBWJs6XTjDz14qPYBDL_IFWFj2zt9Zc) 
+- [GNU Makefile Guide](https://github.com/42YerevanProjects/42_Libft/tree/master/resources)
+- [Vim Reference Guide](https://github.com/42YerevanProjects/42_Libft/tree/master/resources)
+- [Git Pocket Guide](https://github.com/42YerevanProjects/42_Libft/tree/master/resources)
 
+Videos
+
+- [C Beginner Tutorial](https://youtu.be/KJgsSFOSQv0)
+- [Vim Tutorial](https://youtu.be/RZ4p-saaQkc)
+- [Makefile Tutorial](https://youtu.be/FfG-QqRK4cY)
+- [Git and GitHub Tutorial](https://youtu.be/3fUbBnN_H2c)
+
+Links
+
+- [Creating Static Libraries](https://www.howtogeek.com/427086/how-to-use-linuxs-ar-command-to-create-static-libraries/)
+- [Vim Editor](https://gitjournal.tech/vim-chto-jeto-za-redaktor-vim-polnyj-gajd-po-komandam-2/)
+- [Small C Course](https://www.codecademy.com/learn/learn-c)
 
 ## Additional information 
 In order to use this library it should be compiled by the Makefile of the project that is going to use the library.
