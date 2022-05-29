@@ -74,6 +74,7 @@ Links
 - [Creating Static Libraries](https://www.howtogeek.com/427086/how-to-use-linuxs-ar-command-to-create-static-libraries/)
 - [Vim Editor](https://gitjournal.tech/vim-chto-jeto-za-redaktor-vim-polnyj-gajd-po-komandam-2/)
 - [Small C Course](https://www.codecademy.com/learn/learn-c)
+- [Linked Lists](https://www.learn-c.org/en/Linked_lists)
 
 ## Additional information 
 In order to use this library it should be compiled by the Makefile of the project that is going to use the library.
