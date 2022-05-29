@@ -22,32 +22,32 @@ However, I've decided reorganize and combined functions to several folders:
 2. **memory:** Memory operations(allocation, freeing etc.)
 3. **output:** Functions for printing output (except for ft_printf)
 4. **list:** Functions for manipulations with linked lists.
-5. **numbers:** Functions related to integer number types(shor, int etc.).
-6. **strings:** Part of <string.h> functions and addition functions which I deemed useful to work with string.
-7. **structures**: My implementation of some data structures(linked lists).
+5. **strings:** Part of <string.h> functions and addition functions which I deemed useful to work with string.
 
 My code is not the best, but it passed all the 42 tests successfully and I successfully used in my other 42 projects.
 
-### Note:
+#### Note
 
 - Most of the the files and function names are namespaced with an **ft** in front. It stands for Forty Two
-- The project instructions require that we put all the source files in the root directory but for the sake of this Github repo, I separate them into sub folders.
+- The project instructions require that we put all the source files in the root directory but for the sake of this Github 
+repo, I separate them into sub folders.
 
-### How does libft work?
+## How does libft work?
 
 The goal is to create a library called libft.a from the source files so I can later use that library from other projects at 42.
 
 To create that library, after downloading/cloning this project, **cd** into the project and call make:
-
+```
 	git clone https://github.com/42YerevanProjects/42_Libft.git
 	cd libft
 	make
+```
 
 You should see a *libft.a* file and some object files (.o).
 
 That's it! If you're having some problems with the code, just create an issue. I'll definitely check it out. 
 If you're 42 student fill free to message me on discord.
 
-### Additional information 
+## Additional information 
 In order to use this library it should be compiled by the Makefile of the project that is going to use the library.
 Make sure to implement make file correctly.
